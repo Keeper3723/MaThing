@@ -11,6 +11,7 @@ public class MySpringAppApplication {
         app.run(args);
 
         System.out.println("Hello World");
+        System.out.println("Привет мир");
     }
 
 }
