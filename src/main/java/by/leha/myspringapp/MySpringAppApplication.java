@@ -9,6 +9,8 @@ public class MySpringAppApplication {
     public static void main(String[] args) {
         SpringApplication app = new SpringApplication(MySpringAppApplication.class);
         app.run(args);
+
+        System.out.println("Hello World");
     }
 
 }
